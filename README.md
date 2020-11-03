@@ -4,9 +4,9 @@ Please, do NOT use this tool for illegal activity.
 
 ## Commands
 ```
-git clone https://github.com/Err0r-ICA/Viridae <br>
-cd Viridae <br>
-pip2 install -r requirements.txt <br>
+git clone https://github.com/Err0r-ICA/Viridae
+cd Viridae 
+pip2 install -r requirements.txt
 ```
 
 ## Screenshot 
