@@ -1,6 +1,6 @@
 # Viridae
 <b><center>Dangerous Malware Repo</b></center><br>
-Please, do NOT use this tool for illegal activity. 
+<i>Please, do NOT use this tool for illegal activity.</i>
 
 ## Commands
 ```
