@@ -4,9 +4,11 @@
 
 ## Commands
 ```
+pkg update -y;pkg upgrade -y
 git clone https://github.com/Err0r-ICA/Viridae
 cd Viridae 
 pip2 install -r requirements.txt
+python2 Viridae
 ```
 
 ## Screenshot 
