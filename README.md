@@ -1,6 +1,6 @@
-# ☣️ Viridae ☣️
-<b><center>Dangerous Malware Repo</b></center><br>
-<i>Please, do NOT use this tool for illegal activity.</i>
+# ☣️ Viridae ☣️<br>Dangerous Malware Repo
+
+<i>**Please, do NOT use this tool for illegal activity.**</i>
 
 ## 💿 Installation 💿
 ```
