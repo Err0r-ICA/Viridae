@@ -1,8 +1,8 @@
-# Viridae
+# ☣️ Viridae ☣️
 <b><center>Dangerous Malware Repo</b></center><br>
 <i>Please, do NOT use this tool for illegal activity.</i>
 
-## Commands
+## 💿 Installation 💿
 ```
 pkg update -y;pkg upgrade -y
 git clone https://github.com/Err0r-ICA/Viridae
@@ -11,10 +11,10 @@ pip2 install -r requirements.txt
 python2 Viridae
 ```
 
-## Screenshot 
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/NBtyh1k1/Screenshot-20200425-144453-Termux.jpg) 
 
-### My Accounts
+### 👤 My Accounts 👤
 
 * [TELEGRAM](https://t.me/termuxxhacking)
 
